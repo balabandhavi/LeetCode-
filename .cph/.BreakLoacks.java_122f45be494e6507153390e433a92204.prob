@@ -1,0 +1,1 @@
+{"name":"Local: BreakLoacks","url":"c:\\Users\\balab\\OneDrive\\LeetCode\\BreakLoacks.java","tests":[{"id":1733585561294,"input":"3\n3 4 1\n1","output":"4"},{"id":1733585587223,"input":"3\n2 5 4\n2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\balab\\OneDrive\\LeetCode\\BreakLoacks.java","group":"local","local":true}

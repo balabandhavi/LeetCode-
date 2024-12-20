@@ -26,8 +26,6 @@ public class Swap_and_Flip{
                 else count1T++;
             }
 
-            // if(count0S == count1T && count1S == count0T || S.equals(T)) System.out.println("YES");
-            // else System.out.println("NO");
 
             if(n%2==0){
                 int count0 = count0S+count0T;
